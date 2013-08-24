@@ -6,10 +6,7 @@
   <string>Michael Obrocnik (mbixby), Martin Kühl</string>
   <key>comment</key>
   <string>
-    - natural black pen color for unstyled foreground text
-    - doesn't penalize usage of strings and private methods – 
-    their neutral color doesn't drive attention and generate color patterns in the document
-    - lowers importance of comments to nudge the idea that code should be self-explanatory
+    Updates at https://github.com/mbixby/github-notes-color-scheme
   </string>
   <key>name</key>
   <string>GitHub</string>
@@ -157,7 +154,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#445588</string>
+        <string>#333041</string>
         <!-- <string>#74746b</string> -->
       </dict>
     </dict>
@@ -253,7 +250,7 @@
         <key>comment</key>
         <string>.style .ne</string>
         <key>foreground</key>
-        <string>#990000</string>
+        <string>#333041</string>
       </dict>
     </dict>
     <dict>
@@ -266,7 +263,7 @@
         <key>comment</key>
         <string>.style .nf</string>
         <key>foreground</key>
-        <string>#990000</string>
+        <string>#a90011</string>
       </dict>
     </dict>
     <dict>
