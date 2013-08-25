@@ -3,7 +3,7 @@
 Github Notes is a spin-off of [Github Color Scheme](https://github.com/mbixby/github-color-scheme) with a couple of modifications:
 
 * no penalization of strings and instance variables (e.g. `@property` in Coffeescript) – being neutrally colored, they don't drive attention and generate any color patterns in a document
-* lower importance of comments to encourage self-explanatory code
+* lower importance of comments to encourage self-explanatory code (ball pen blue replaced with warm grey)
 * more natural black pen color for unstyled foreground text
 
 ## Remarks     
