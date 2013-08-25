@@ -34,9 +34,6 @@ HTML
 Markdown
 ![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/md.png)  
 
-Javascript
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/js.png)  
-
 SASS
 ![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/sass.png)  
 
