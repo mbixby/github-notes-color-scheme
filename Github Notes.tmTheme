@@ -194,7 +194,7 @@
         <key>comment</key>
         <string>.style .bp</string>
         <key>foreground</key>
-        <string>#999999</string>
+        <string>#333041</string>
       </dict>
     </dict>
     <dict>
@@ -263,7 +263,7 @@
         <key>comment</key>
         <string>.style .nf</string>
         <key>foreground</key>
-        <string>#a90011</string>
+        <string>#a91545</string>
       </dict>
     </dict>
     <dict>
