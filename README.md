@@ -7,7 +7,13 @@ Github Notes is an experimental color scheme and part of a set of visual improve
 
 ## Remarks     
 
-* Please star the repo if you'd like this idea to be explored further. (Currently there's just slightly modified [github color scheme](https://github.com/mbixby/github-color-scheme))
+* Please star the repo if you'd like this idea to be explored further. 
+
+* As of yet, there's just [Github Color Scheme](https://github.com/mbixby/github-color-scheme) with a couple of modifications:
+  * no penalization of strings and instance variables (e.g. `@property` in Coffeescript) – being neutrally colored, they don't drive attention and generate any color patterns in a document
+  * lower importance of comments to encourage self-explanatory code (ball pen blue replaced with warm grey)
+  * more natural black pen color for unstyled foreground text
+
 
 * Use with [Bluebird](https://github.com/mbixby/bluebird) for Sublime. Bluebird also includes packages for Markdown and Coffeescript with better support for Github color scheme. 
   
