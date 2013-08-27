@@ -26,24 +26,3 @@ Github Notes is an experimental color scheme and part of a set of visual improve
 ## Attribution
 
 Based on [mbixby/github-color-scheme](https://github.com/mbixby/github-color-scheme), which is based on Martin Kühl's Github theme, which itself is based on ~2012 Github code style.
-
-## Preview
-
-Coffeescript
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/coffee.png)  
-
-Ruby
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/ruby.png)  
-
-HTML
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/html.png)  
-
-Markdown
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/md.png)  
-
-SASS
-![](https://raw.github.com/mbixby/github-notes-color-scheme/master/preview/sass.png)  
-
-## License
-
-TBA
