@@ -5,6 +5,10 @@ Github Notes is an experimental color scheme and part of a set of visual improve
 * use visual patterns to highlight code smells and support good OOP practices
 * provide relaxed, calm atmosphere for reading and writing code
 
+&nbsp;
+
+![](https://cloud.githubusercontent.com/assets/758691/4099257/29cbe0f6-3054-11e4-8377-79893e0aad68.png)
+
 ## Remarks     
 
 * Please star the repo if you'd like this idea to be explored further. 
